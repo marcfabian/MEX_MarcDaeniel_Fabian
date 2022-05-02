@@ -2,7 +2,6 @@
 <!DOCTYPE html>    
 <html>    
 <head>    
-    <title>Login Form</title>    
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="stylesheet" type="text/css" href="css/style.css"/>     
 </head>    
